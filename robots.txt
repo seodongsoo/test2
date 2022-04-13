@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://animalface-gamehitori.netlify.app/sitemap.xml
