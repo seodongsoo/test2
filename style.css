@@ -495,3 +495,6 @@ input:checked + label > .knob > i:before {
 .h1, h1 {
     font-size: 3.8rem;
 }
+.percent-text {
+    color: #164b78;
+}
