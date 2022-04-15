@@ -504,3 +504,9 @@ input:checked + label > .knob > i:before {
 .h2, h2 {
     font-size: 1.5rem;
 }
+
+a {
+    color: #2c2c2c;
+    text-decoration: none;
+    background-color: transparent;
+}
