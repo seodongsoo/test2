@@ -199,7 +199,7 @@ body {
 .bar-container {
   height: 2.7rem;
 }
-.dinosaur-box {
+.raccoon-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -208,7 +208,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.dinosaur-bar {
+.raccoon-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -216,7 +216,7 @@ body {
   border-radius: 10px;
   background-color: rgba(117, 204, 84, 1);
 }
-.deer-box {
+.squirrel-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -225,7 +225,7 @@ body {
   width: 100%;
   background-color: rgba(117, 204, 84, 0.2);
 }
-.deer-bar {
+.squirrel-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -339,17 +339,17 @@ body {
 .animal-explain {
     font-size: 1.5rem;
 }
-.dinosaur-animal-title {
+.raccoon-animal-title {
     color: #3ba363;
 }
-.dinosaur-animal-celeb {
+.raccoon-animal-celeb {
     color: #3ba363;
     font-size: 1.2rem;
 }
-.deer-animal-title {
+.squirrel-animal-title {
     color: #3ba363;
 }
-.deer-animal-celeb {
+.squirrel-animal-celeb {
     color: #3ba363;
     font-size: 1.2rem;
 }
