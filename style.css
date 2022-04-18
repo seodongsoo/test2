@@ -267,7 +267,7 @@ body {
   border-radius: 10px;
   background-color: rgba(251, 176, 59, 1);
 }
-.bear-box {
+.raccoon-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -276,7 +276,7 @@ body {
   width: 100%;
   background-color: rgba(195, 140, 102, 0.2);
 }
-.bear-bar {
+.raccoon-bar {
   position: absolute;
   top: 0;
   left: 0;
